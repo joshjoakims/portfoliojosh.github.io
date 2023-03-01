@@ -354,7 +354,7 @@ section.section-show {
 }
 
 section .container {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(26, 24, 24, 0.9);
   padding: 30px;
 }
 
@@ -376,7 +376,7 @@ section .container {
   margin: 0 0 20px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #aaaaaa;
+  color: hsl(0, 0%, 100%);
   font-family: "Poppins", sans-serif;
 }
 
@@ -396,7 +396,7 @@ section .container {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
@@ -535,7 +535,7 @@ section .container {
   padding: 0;
   line-height: 1;
   font-size: 16px;
-  color: #fff;
+  color: #f0eded;
 }
 
 .interests .icon-box:hover {
@@ -568,12 +568,12 @@ section .container {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 45px;
-  color: #fff;
+  color: #ffffff;
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: #ffffff;
   margin: 0 0 0 45px;
 }
 
@@ -631,7 +631,7 @@ section .container {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #fff;
+  color: #fdfdfd;
 }
 
 .resume .resume-item {
